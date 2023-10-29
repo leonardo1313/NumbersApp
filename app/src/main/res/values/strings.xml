@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NumbersApp</string>
+    <string name="get_new_number_trivia">Get new number trivia</string>
+    <string name="tv_text">Click button to display some random number trivia</string>
+</resources>
